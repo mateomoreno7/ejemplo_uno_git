@@ -1,0 +1,7 @@
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\mmoreno\\Documents\\gitignore_global.txt
+[user]
+	name = Mateo Moreno
+[user]
+	email = mmoreno@pratechgroup.com
